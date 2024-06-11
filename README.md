@@ -14,7 +14,7 @@
 </p>
 
 <!-- Personal Details -->
-<ul style="font-family: 'Poppins', sans-serif; color: #333;">
+<ul style="font-family: 'Poppins', sans-serif; color: #333; align="center">
   <li>👨‍💻 All of my projects are available at <a href="http://cypertechnologies.com">cypertechnologies.com</a></li>
   <li>📝 I regularly write articles on <a href="http://techyfreak.com">techyfreak.com</a></li>
   <li>💬 Ask me about <strong>Flask, Full Stack Development</strong></li>

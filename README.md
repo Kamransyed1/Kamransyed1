@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kamransyed1
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning bootstrap
-- 💞️ I’m looking to collaborate on front end websites
+- 👋 Hi, I’m Kamran Syed
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me through mail ....kamransyed141001@gmail.com
 
 <!---
